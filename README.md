@@ -1,6 +1,6 @@
-[Accounting Financial Project.pdf](https://github.com/user-attachments/files/31799427/Accounting.Financial.Project.pdf)
+[Starbucks FY24 Analysis.pdf](https://github.com/user-attachments/files/31799427/Accounting.Financial.Project.pdf)
 
-[Fin Group Project (1).xlsx](https://github.com/user-attachments/files/31799422/Fin.Group.Project.1.xlsx)
+[Starbucks FY24 Spreadsheet.xlsx](https://github.com/user-attachments/files/31799422/Fin.Group.Project.1.xlsx)
 # Starbucks Corporation (NASDAQ: SBUX) — Financial Statement & Managerial Analysis
 
 An institutional accounting and financial statement analysis evaluating Starbucks Corporation (NASDAQ: SBUX) for Fiscal Year 2024. The study examines financial health, income statement common-size trends, audit findings by Deloitte & Touche LLP, managerial cost structures, and strategic leadership transitions.
