@@ -93,7 +93,4 @@ All dollar values are in **millions of USD** unless otherwise noted.
 
 ---
 
-### Repository Files
 
-* [`Accounting Financial Project.pdf`](./Accounting%20Financial%20Project.pdf): Comprehensive financial analysis report covering SBUX 10-K statements, Deloitte audit, and managerial cost insights.
-* [`Fin Group Project.xlsx`](./Fin%20Group%20Project.xlsx): Complete financial statement dataset, common-size income statement calculations, and balance sheet models.
