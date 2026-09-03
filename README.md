@@ -1,4 +1,5 @@
 [Accounting Financial Project.pdf](https://github.com/user-attachments/files/31799427/Accounting.Financial.Project.pdf)
+
 [Fin Group Project (1).xlsx](https://github.com/user-attachments/files/31799422/Fin.Group.Project.1.xlsx)
 # Starbucks Corporation (NASDAQ: SBUX) — Financial Statement & Managerial Analysis
 
